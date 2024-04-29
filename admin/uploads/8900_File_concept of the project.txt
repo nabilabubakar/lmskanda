@@ -1,0 +1,11 @@
+Concept of the Project: Computerization of an Active Directory System for Korle-Bu Hospital
+
+The concept of the project is to computerize the hospital's current system for managing user accounts, access permissions, assets, and inventory. The project will involve implementing an automated Active Directory system that will streamline user management, enhance security, and provide greater scalability and flexibility to meet the hospital's growing needs.
+
+The proposed system will provide a centralized platform for managing user accounts, access permissions, and assets. This will eliminate the need for manual management of user accounts and access permissions, reducing the risk of errors and improving operational efficiency. The automated system will enforce consistent security policies across the network, ensuring that sensitive patient data is protected and minimizing the risk of data breaches.
+
+The system will also provide a centralized platform for managing assets and inventory, making it easier to track hardware and software assets and ensuring that they are utilized efficiently. This will result in cost savings for the hospital and improved resource management.
+
+The proposed system will be designed to be scalable and flexible to meet the hospital's growing needs. The system will be able to accommodate the increasing number of users and assets, ensuring that the hospital's IT infrastructure can keep up with its growth.
+
+Overall, the concept of the project is to improve the hospital's IT infrastructure by computerizing its Active Directory system. The proposed system will provide a centralized platform for managing users, assets, and inventory, improving operational efficiency, enhancing security, and ensuring scalability and flexibility to meet the hospital's growing needs.
